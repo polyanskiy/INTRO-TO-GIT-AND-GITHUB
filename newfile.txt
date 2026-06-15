@@ -1,1 +1,10 @@
+<<<<<<< HEAD
 q23
+=======
+newfile content
+
+qq
+
+qqq
+
+>>>>>>> test_branch
